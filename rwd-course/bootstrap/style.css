@@ -1,0 +1,31 @@
+.card{
+    padding: 0 !important;
+}
+.test
+{
+    position: absolute;
+    width: 30% !important;
+  overflow: hidden;
+    height: 100%;
+     color: #fff;
+    background: #467612 url("./assets/intro_background.png") repeat-x;
+    background-size: 100%;
+}
+@media only screen and (max-width: 600px) {
+    .card-text{
+display: none;
+    }   
+    .card-title
+    {
+        font-size: 14px !important;
+    }
+}
+
+.text-decoration-underline:hover
+{
+    text-decoration: none !important;
+    color: #fff !important;
+}
+.text-decoration-none:hover{
+    text-decoration: underline !important;
+}

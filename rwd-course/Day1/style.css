@@ -6,10 +6,16 @@
 .taskLink{
     text-decoration: none;
     font-size: 2rem;
+    color: #fff;
+    
 }
 .task-btn{
     width: 20rem;
     height: 10rem;
     cursor: pointer;
     margin: 30px;
+    background-color: rgb(155, 192, 150);
+    border: none;
+    border-radius: 15px;
+   
 }
